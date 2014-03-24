@@ -28,13 +28,13 @@ testdb=#
 
 You then need to clone this project
 
-git clone https://github.com/satendrakumar06/sbtprojectwithconnectionpooling.git
+git clone https://github.com/knoldus/connectionpoolinginscala.git
 
-Change into the sbtprojectwithconnectionpooling folder.
+Change into the connectionpoolinginscala folder.
 
 Run the code example using SBT
 
-sky@Sky:~/knols_sessions/sbtprojectwithconnectionpooling$ sbt run
+sky@Sky:~/connectionpoolinginscala$ sbt run
 Loading /home/sky/scalatool/sbt-0.13/bin/sbt-launch-lib.bash
 [info] Loading project definition from /home/sky/knols_sessions/sbtprojectwithconnectionpooling/project
 [info] Set current project to sbtprojectwithconnectionpooling (in build file:/home/sky/knols_sessions/sbtprojectwithconnectionpooling/)
